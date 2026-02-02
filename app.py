@@ -6,7 +6,7 @@ st.title("🏥 MVP – Gestion Hospitalière")
 st.write("Chargement des données patients")
 
 # Nom du fichier CSV dans le repo
-file_name = "patients_nettoyes(1).csv"
+file_name = "Database_.csv"
 
 # Vérification de la présence du fichier
 if os.path.exists(file_name):
